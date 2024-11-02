@@ -1,42 +1,43 @@
 /*oef1*/
-
-    .abs {
-    font-size: 16px;
+.links{
+    text-align: left;
   }
-    .rel {
-    font-size: 1.5rem;
+
+  .midden{
+    text-align: center;
+  }
+
+  .rechts{
+    text-align: right;
   }
 
   /*oef2*/
+  .onder{
+    text-decoration: underline;
+  }
 
-  .bold {
-    font-weight: bold ;
-  }
-  .italic {
-    font-style: italic ;
-  }
-  .bold-italic {
-    font-weight: bold;
-    font-style: italic;
+  .door {
+    text-decoration: line-through;
   }
 
   /*oef3*/
+  .insprong1 {
+    text-indent: 40px;
+  }
 
-  .fijnste {
-    font-weight: 100;
-  }
-  .normaal {
-    font-weight: 400;
-  }
-  .dikke {
-    font-weight: 700;
+  .insprong2 {
+    text-indent: 10%;
   }
 
   /*oef4*/
-
-  .ff1 {
-    font-family: arial;
+  .kast1 {
+    text-transform: uppercase;
   }
-  .ff2 {
-    font-family: 'Times New Roman', Times, serif;
+
+  .kast2 {
+    text-transform: lowercase;
+  }
+
+  .kast3 {
+    text-transform: capitalize;
   }
