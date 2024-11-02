@@ -1,45 +1,42 @@
 /*oef1*/
 
-.abs {
+    .abs {
     font-size: 16px;
-}
+  }
+    .rel {
+    font-size: 1.5rem;
+  }
 
-.rel{
-    font-size: 1.5em;
-}
+  /*oef2*/
 
-/*oef2*/
-
-.bold {
+  .bold {
     font-weight: bold ;
   }
   .italic {
     font-style: italic ;
   }
   .bold-italic {
-    font-weight: bold ;
-    font-style: italic ;
-}
-
-/*oef3*/
-.fijnste {
-    font-weight: 100;
+    font-weight: bold;
+    font-style: italic;
   }
 
+  /*oef3*/
+
+  .fijnste {
+    font-weight: 100;
+  }
   .normaal {
     font-weight: 400;
   }
-
   .dikke {
     font-weight: 700;
   }
-  
 
-/*oef4*/
+  /*oef4*/
 
-.ff1{
+  .ff1 {
     font-family: arial;
   }
-  .ff2{
+  .ff2 {
     font-family: 'Times New Roman', Times, serif;
   }
